@@ -1,0 +1,23 @@
+*.iml
+.gradle
+local.properties
+.idea
+build
+.cxx
+.externalNativeBuild
+naveditor
+*.apk
+*.aab
+keystore.properties
+*.jks
+*.keystore
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
